@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|c:\\users\\usuario\\pictures\\apisincinaty\\apisincinaty\\apisincinaty\\apisincinaty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|solutionrelative:apisincinaty\\apisincinaty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|c:\\users\\usuario\\pictures\\apisincinaty\\apisincinaty\\apisincinaty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|solutionrelative:apisincinaty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|c:\\users\\usuario\\pictures\\apisincinaty\\apisincinaty\\apisincinaty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|solutionrelative:apisincinaty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|c:\\users\\usuario\\pictures\\apisincinaty\\apisincinaty\\apisincinaty\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|solutionrelative:apisincinaty\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|c:\\users\\usuario\\pictures\\apisincinaty\\apisincinaty\\apisincinaty\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|solutionrelative:apisincinaty\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|c:\\users\\usuario\\pictures\\apisincinaty\\apisincinaty\\apisincinaty\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AAEC71-CDAD-4264-BDA7-859D41D7E76E}|ApiSincinaty\\ApiSincinaty.csproj|solutionrelative:apisincinaty\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ApiSincinaty\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ApiSincinaty\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:04:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Program.cs",
+              "RelativeDocumentMoniker": "ApiSincinaty\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Program.cs",
+              "RelativeToolTip": "ApiSincinaty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:59:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiSincinaty\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\appsettings.json",
+              "RelativeToolTip": "ApiSincinaty\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T15:57:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Context\\ContextDb.cs",
+              "RelativeDocumentMoniker": "ApiSincinaty\\Context\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Context\\ContextDb.cs",
+              "RelativeToolTip": "ApiSincinaty\\Context\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:57:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "ApiSincinaty\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\Models\\Users.cs",
+              "RelativeToolTip": "ApiSincinaty\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:55:30.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiSincinaty",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty.csproj",
+              "RelativeDocumentMoniker": "ApiSincinaty\\ApiSincinaty.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Pictures\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty\\ApiSincinaty.csproj",
+              "RelativeToolTip": "ApiSincinaty\\ApiSincinaty.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T15:48:52.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
